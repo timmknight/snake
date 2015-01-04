@@ -1,0 +1,23 @@
+#wrapper {
+  height: 600px;
+  width: 600px;
+  display: flex;
+  margin: auto; }
+
+.col {
+  box-sizing: border-box;
+  width: 15px;
+  height: 15px;
+  border: 1px solid gray;
+  float: left; }
+
+.snakehead {
+  background-color: #035C10; }
+
+.snaketail {
+  background-color: #02C920; }
+
+.fruit {
+  background-color: #FF0000; }
+
+/*# sourceMappingURL=style.css.map */
